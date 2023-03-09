@@ -1,4 +1,4 @@
-# shopee-clone-project
+# Shopee Clone Project
 Clone Shopee penerapan OOP menggunakan Typescript
 
 ## Proses bisnis Shopee
