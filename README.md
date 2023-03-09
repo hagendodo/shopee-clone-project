@@ -3,7 +3,7 @@ Clone Shopee penerapan OOP menggunakan Typescript
 
 ## Proses bisnis Shopee
 
-- Menjual Produk
+- Menjual/Membeli Produk
 - Pembayaran
 - Pengiriman
 - Penarikan dana
